@@ -168,4 +168,8 @@ Les contributions sont les bienvenues ! Pour proposer une ressource :
 4. Ouvrez une Pull Request
 
 ---
-Ce projet est sous licence [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — Domaine public, libre de tout droit.
+## Licence
+
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT) — libre d'utilisation, de modification et de distribution.
